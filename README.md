@@ -3,33 +3,44 @@
 ## 🎓 About Me
 
 - M.Sc. Cyber Security Graduate
-- Interested in Digital Forensics, SOC, and VAPT
-- Hands-on internship experience in Cyber Crime Investigation, SOC Operations, and Vulnerability Assessment
+- Passionate about Digital Forensics, Security Operations Center (SOC), and Vulnerability Assessment & Penetration Testing (VAPT)
+- Hands-on internship experience in Cyber Crime Investigation, SOC Operations, and Web Application Security
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
 - Digital Forensics
 - Security Operations Center (SOC)
 - Vulnerability Assessment & Penetration Testing (VAPT)
 - Incident Response
-- Python (Basic)
+- Web Application Security
 - Linux
+- Python (Basic)
 
 ---
 
-## 🔧 Tools
+## 🔧 Tools & Technologies
 
 - Kali Linux
-- UFED
-- FTK Imager
-- Autopsy
-- Burp Suite Community
+- Wazuh SIEM
+- Burp Suite Community Edition
 - Nmap
+- Nikto
+- SQLMap
 - Wireshark
 - Docker
-- VMware
+- VMware Workstation
+- Autopsy
+- FTK Imager
+- Cellebrite UFED
+
+---
+
+## 📂 Featured Projects
+
+- 🔐 DVWA Web Application Security Assessment
+- 🛡️ SOC Operations & Threat Detection using Wazuh SIEM
 
 ---
 
@@ -43,13 +54,14 @@
 
 ---
 
-## 📂 Upcoming Projects
+## 🎯 Career Interests
 
-- DVWA Web Application Security Assessment
-- Threat Detection using Wazuh
-- Python Data Carving Tool
-- Digital Forensics Case Studies
+- Digital Forensics
+- SOC Analyst
+- Incident Response
+- Vulnerability Assessment
+- Threat Detection
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ Thank you for visiting my GitHub profile!
