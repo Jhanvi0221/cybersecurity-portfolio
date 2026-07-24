@@ -16,7 +16,7 @@
 - Incident Response
 - Web Application Security
 - Linux
-- Python (Basic)
+- Python
 
 ---
 
